@@ -1,6 +1,6 @@
 # Kinga Alibożek
 ----
 ## Welcome to my page!
-I am working on a group project for my studies, which will be a game simillar to flappy bird.
+I am studying Computer Science and Inteligent systems at AGH in Cracow.
 
-I have small experience in creating HTML websites styled with SCSS.
+I have experience in programming in Python, Java and C#. My interest is designing AI models, especially neural networks.
